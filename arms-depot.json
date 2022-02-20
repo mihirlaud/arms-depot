@@ -1,0 +1,12 @@
+[
+    {
+		"metadata": {
+			"location": "https://github.com/purduesigbots/ARMS/releases/download/1.3.2/ARMS@1.3.2.zip"
+		},
+		"name": "arms",
+		"py/object": "pros.conductor.templates.base_template.BaseTemplate",
+		"supported_kernels": ">=3.4.0",
+		"target": "v5",
+		"version": "1.3.2"
+	}
+]
