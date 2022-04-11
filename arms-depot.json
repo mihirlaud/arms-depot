@@ -18,5 +18,15 @@
 		"supported_kernels": ">=3.4.0",
 		"target": "v5",
 		"version": "2.0.0"
+	}, 
+    {
+		"metadata": {
+			"location": "https://github.com/purduesigbots/ARMS/releases/download/2.0.1/ARMS@2.0.1.zip"
+		},
+		"name": "ARMS",
+		"py/object": "pros.conductor.templates.base_template.BaseTemplate",
+		"supported_kernels": ">=3.4.0",
+		"target": "v5",
+		"version": "2.0.1"
 	}
 ]
